@@ -1,0 +1,12 @@
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.esriControls.dll
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.esriControls.dll
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\IPAN\Exercise02\FirstMap4\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
